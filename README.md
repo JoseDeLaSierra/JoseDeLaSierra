@@ -23,7 +23,7 @@ Welcome to my GitHub! I'm a passionate **Management Information Systems (MIS)** 
 ---
 
 ## 💻 Projects
-### 🔹 [Quoting System](https://github.com/JoseDeLaSierra/quoting-system)  
+### 🔹 [Quoting System](https://github.com/JoseDeLaSierra/QuotingSystem)  
 *A web application that transforms project notes into detailed estimates, automating task generation, material pricing, and timelines.*  
 **Tech Stack:** Python, Flask, HTML, OpenAI API 
 
